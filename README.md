@@ -4,6 +4,7 @@
 </h3>
 
 <h3 align="left">Connect with me:</h3>
+hi@farahim.me
 <p align="left">
 </p>
 
