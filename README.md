@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I'm Farahim 👋</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">
+  I am a highly skilled Full-Stack Engineer with a diverse background in frontend and backend development. I excel inbuilding dynamic, user-centric web applications, managing databases, and ensuring robust server-side functionality. With a strong foundation in technical support and customer service, I am committed to delivering scalable, high-performance solutions that enhance user experiences and drive business results.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
